@@ -1,0 +1,10 @@
+source,workers,cores,time_s,bab_nodes
+org_solutions,3,4,2688.61,17759
+org_solutions,7,8,1205.93,17773
+org_solutions,15,16,568.95,17789
+org_solutions,31,32,276.85,17743
+org_solutions,63,64,144.45,17743
+org_solutions,127,128,73.45,17749
+org_solutions,255,256,42.99,17821
+org_solutions,511,512,40.27,17755
+org_solutions,1023,1024,29.48,17801

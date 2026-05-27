@@ -1,0 +1,8 @@
+source,workers,cores,time_s,bab_nodes
+newest_solutions,7,8,1234.405244977,17757
+newest_solutions,15,16,592.235753145,17811
+newest_solutions,63,64,147.406386082,17761
+newest_solutions,127,128,75.849919895,17729
+newest_solutions,255,256,46.394309808,17813
+newest_solutions,511,512,28.819228965,17735
+newest_solutions,1023,1024,16.589058939,17829
